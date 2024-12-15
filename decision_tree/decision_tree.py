@@ -1,5 +1,5 @@
-Author : enesozeren
-https://github.com/enesozeren/machine_learning_from_scratch/commits?author=enesozeren
+# Author : enesozeren
+# https://github.com/enesozeren/machine_learning_from_scratch/commits?author=enesozeren
 
 import inspect
 import numpy as np
